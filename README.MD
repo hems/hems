@@ -11,3 +11,8 @@ I hope you enjoy some of the code you will find here ( it's a mess, i know! sorr
 If you feel like getting in touch please go ahead ( you can get my details on the sidebar ).
 
 ✌️
+
+
+
+
+ps: unfortunately the stats in the chart are completely skewed as they don't show a lot of the private repos :sad
