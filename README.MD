@@ -1,11 +1,11 @@
 ### Hello 👋
 
-I'm have been writting code since 1997 and using git since 2008. 
+I've been writing code since 1997 and using Git since 2008.
 
-In those 25+ years i have played with a lot of programming languages and used them to develop websites, desktop and mobile applications, physical installations, music, spatial audio installations, three-d graphics, web3 contracts, open source software and likely other things i have already forgotten.
+Over those 25+ years, I've worked with a wide range of programming languages, building everything from websites, desktop apps, and mobile applications to physical installations, music software, spatial audio systems, 3D graphics, and web3 contracts (plus plenty of other things I've  forgotten by now).
 
-I hope you enjoy some of the code you will find here, unfortunately though it's a bit of a mess as i haven't been publishing or contributing to github repositoris in a long time.
+I hope you find something useful or interesting here. I'm not gonna lie: it's a bit of a mess, as I haven't been actively publishing or contributing to public GitHub repos in a while.
 
-If you feel like getting in touch please go ahead - you can get my details on the sidebar.
+Feel free to get in touch! you'll find my details in the sidebar.
 
 ✌️
