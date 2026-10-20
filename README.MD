@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Full-stack product engineer in London, working in TypeScript across Node.js, React, React Native and EVM chains. I have built and run production systems end to end for two decades: Feeld's backend from launch past two million users, the first SDK for the Ethfinex exchange, and Aluna, a BitMEX-backed social trading terminal I co-founded and led for five years. More recently I led the development team at defi.money, a cross-chain stablecoin built on an authorised fork of Curve's crvUSD, and wrote Solidity contracts in Foundry as a consultant for other Web3 teams. I also built Kage Bunshin, an orchestration platform for long-running Claude Code agents.
+Full-stack product engineer in London, working in TypeScript across Node.js, React, React Native and EVM chains. I have built and run production systems end to end for two decades: Feeld's backend from launch past two million users, the first SDK for the Ethfinex exchange, and Aluna, a BitMEX-backed social trading terminal I co-founded and led for five years. More recently I led the development team at defi.money, a cross-chain stablecoin built on an authorised fork of Curve's crvUSD, and wrote Solidity contracts in Foundry as a consultant for other Web3 teams. I use coding agents for much of the heavy lifting, while the design and architecture decisions stay with me. I built my own remote control for them, so I can run them at my desk or from my phone, by text or live voice.
 
 I have been writing code since 1997 and using Git since 2008.
 
