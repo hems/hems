@@ -1,8 +1,8 @@
 ### Hello 👋
 
-For me it started in the late 90s, and I have been shipping products end to end ever since, from design and user experience to database schemas, and I have lived the full startup arc, first raise to final fold.
+Full-stack product engineer in London, working in TypeScript across Node.js, React, React Native and EVM chains. I have built and run production systems end to end for two decades: Feeld's backend from launch past two million users, the first SDK for the Ethfinex exchange, and Aluna, a BitMEX-backed social trading terminal I co-founded and led for five years. Most recently I led frontend at defi.money, a cross-chain stablecoin protocol, and built Kage Bunshin, an orchestration platform for long-running Claude Code agents.
 
-I have been writing code since 1997 and using Git since 2008. At Hi-ReS! I led engineering on campaigns for Christopher Nolan's Interstellar, Darren Aronofsky's Noah, Chanel, and Dolce & Gabbana. I built Feeld's backend from the ground up and watched it scale past two million users. I wrote the first SDK for Ethfinex, a non-custodial exchange built on the 0x protocol. I co-founded Aluna, a BitMEX-backed social trading terminal where traders broadcast their positions and copied each other's trades. Since then I have been shipping multi-chain EVM applications.
+I have been writing code since 1997 and using Git since 2008.
 
 In my spare time I created [nowhere.chat](https://www.nowhere.chat), a location-based public chat room, live on the App Store.
 
